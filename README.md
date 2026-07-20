@@ -1,97 +1,102 @@
-# Morphey / Unity Developer Portfolio
+# Morphey Game — Unity Developer Portfolio
 
-Русская версия ниже. English version follows.
-
----
-
-## О себе / About me
-
-**RU**  
-Я Unity Developer, специализируюсь на 2D играх, gameplay-системах, UI и архитектуре. Разрабатываю механики для top-down RPG и пошаговых боевых систем, работаю с инвентарём, экипировкой, квестами, диалогами, локализацией, сохранениями и игровыми интерфейсами. Уверенно использую C#, Unity UI, ScriptableObject, event-driven подход и DI-архитектуру.
-
-**EN**  
-I am a Unity Developer focused on 2D games, gameplay systems, UI, and architecture. I build mechanics for top-down RPGs and turn-based combat systems, working with inventory, equipment, quests, dialogue, localization, save/load systems, and in-game interfaces. I work confidently with C#, Unity UI, ScriptableObject, event-driven architecture, and DI-based development.
+Unity Developer focused on 2D games, gameplay systems, UI, and architecture.
 
 ---
 
-## Навыки / Skills
+## About Me
 
-- Unity, C#, Unity UI, UGUI, ScriptableObject.
-- 2D top-down RPG, turn-based combat, inventory, equipment, crafting.
-- Quest systems, dialogue systems, localization, save/load.
-- Gameplay architecture, modular systems, event-driven design, dependency injection.
-- Optimization, debugging, refactoring, code maintenance.
-- Game UI/UX, HUD, maps, damage indicators, sliders.
+Unity developer focused on 2D games, gameplay systems, UI, and architecture. I build mechanics for top-down RPGs and turn-based combat systems, working with inventory, equipment, quests, dialogue, localization, save/load systems, and in-game interfaces. I work confidently with C#, Unity UI, ScriptableObject, event-driven architecture, and DI-based development.
 
 ---
 
-## Проекты / Projects
+## Experience
 
-### 1. Roo&Dark king — 2D Top-Down RPG / JRPG
-**RU:** Основной игровой проект с упором на боёвку, квесты, UI и системную архитектуру.  
-**EN:** Main game project focused on combat, quests, UI, and scalable architecture.
+### Freelance Unity Developer
+**2023 – Present**
 
-**Ссылки / Links:**  
-- GitHub: [link](https://github.com/your-repo)  
-- Demo / Video: [link](https://youtube.com/your-video)  
-- Build / Itch.io: [link](https://your-game-page.com)
+- Developed Unity-based mobile and 2D game projects on a freelance basis.
+- Implemented gameplay systems, UI, inventory, combat, quests, and save/load mechanics.
+- Worked with C#, Unity, ScriptableObject, and modular architecture.
+- Delivered features for different clients and project requirements.
 
-**Что реализовано / What was implemented:**
-- Инвентарь, экипировка и предметы с эффектами. 
-- Боевая система с состояниями, способностями и AI. 
-- Квесты, диалоги и триггеры событий. 
-- UI: инвентарь, вкладки, карта, индикаторы урона, панели, слайдеры. 
-- Локализация и интеграция narrative-систем. 
-- Оптимизация и улучшение архитектуры через DI-подход. 
+### Unity Developer — Confidential Project (NDA)
+**2020 – 2022**
 
-### 2. [Project Name] — [Short description]
-**RU:** [Короткое описание проекта.]  
-**EN:** [Short description of the project.]
+- Contributed to a confidential Unity project under NDA.
+- Built and maintained core gameplay systems, UI flows, and technical features.
+- Focused on scalable architecture, code quality, and stable delivery.
+- Described the work in terms of role, domain, and impact without exposing private details.
 
-**Ссылки / Links:**  
-- GitHub: [link](https://github.com/your-repo)  
-- Demo / Video: [link](https://youtube.com/your-video)
+### Freelance Mobile Game Developer
+**2018 – 2020**
 
-### 3. [Project Name] — [Short description]
-**RU:** [Короткое описание проекта.]  
-**EN:** [Short description of the project.]
-
-**Ссылки / Links:**  
-- GitHub: [link](https://github.com/your-repo)  
-- Demo / Video: [link](https://youtube.com/your-video)
+- Worked on mobile game projects as a freelance Unity developer.
+- Implemented gameplay logic, UI interactions, and supporting systems.
+- Collaborated remotely and adapted to different project scopes and deadlines.
+- Gained experience in shipping features under production constraints.
 
 ---
 
-## Опыт / Experience
+## Skills
 
-### Unity Developer — [Company / Project]
-**Period:** [YYYY – YYYY]
-
-**RU**
-- Разрабатывал и поддерживал игровые системы для 2D RPG-проекта. [cite:2][cite:5]
-- Реализовывал инвентарь, экипировку и предметы с эффектами. [cite:1][cite:7]
-- Создавал боевую систему с состояниями, способностями и логикой AI. [cite:2][cite:5]
-- Разрабатывал квестовые механики, диалоги и триггеры событий. [cite:2][cite:4]
-
-**EN**
-- Developed and maintained gameplay systems for a 2D RPG project. [cite:2][cite:5]
-- Implemented inventory, equipment, and items with effects. [cite:1][cite:7]
-- Built combat systems with states, abilities, and AI behavior. [cite:2][cite:5]
-- Developed quest mechanics, dialogue, and event triggers. [cite:2][cite:4]
+- Unity
+- C#
+- Unity UI / UGUI
+- ScriptableObject
+- 2D RPG Systems
+- Turn-Based Combat
+- Inventory / Equipment
+- Quests / Dialogue
+- Save / Load
+- Localization
+- Dependency Injection
+- Event-Driven Architecture
+- Optimization
+- Debugging
+- Refactoring
 
 ---
 
-## Контакты / Contacts
+## Projects
 
-- Email: [your@email.com](mailto:your@email.com)
-- Telegram: [@yourhandle](https://t.me/yourhandle)
-- GitHub: [github.com/yourprofile](https://github.com/yourprofile)
+### 2D Top-Down RPG / JRPG
+Main game project focused on combat, quests, UI, and scalable architecture.  
+Implemented gameplay mechanics, interfaces, and systems for extensible content.  
+Strong focus on player experience, interface clarity, and system stability.
+
+### Confidential Project (NDA)
+Unity project with proprietary gameplay and technical systems.  
+Worked on internal features, architecture, and production-ready implementation.
+
+### Freelance Mobile Game Projects
+Multiple freelance game projects with different scopes and requirements.  
+Focused on gameplay logic, UI, and deliverables for client needs.
+
+---
+
+## Education
+
+**Minsk State College of Construction and Municipal Services**
+
+**Technical Operation of Electrical Equipment**  
+**Class of 2018** 
+
+**Unity Development**  
+**February 2020 – July 2020**
+
+---
+
+## Languages
+
+- Russian — Native
+- English — B1
+
+---
+
+## Contact
+
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-
----
-
-## Дополнительно / Additional
-
-- Быстро вникаю в существующий код и улучшаю архитектуру без лишней ломки системы.
-- Ориентирован на качество, поддерживаемость и производительность.
-- Готов работать над gameplay, UI и технической частью проекта.
+- Email: daniilhaltsou@gmail.com
+- Telegram: @Morpheykin
