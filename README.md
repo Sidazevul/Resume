@@ -96,7 +96,6 @@ Focused on gameplay logic, UI, and deliverables for client needs.
 
 ## Contact
 
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/daniil-haltsou/
 - Email: daniilhaltsou@gmail.com
 - Telegram: @Morpheykin
